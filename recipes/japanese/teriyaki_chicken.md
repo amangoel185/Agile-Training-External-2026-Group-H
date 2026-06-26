@@ -46,5 +46,5 @@
 - Use chicken thighs for best flavor and tenderness.
 - Adjust sugar to taste depending on sweetness preference.
 
-### Photo (optional)  
+### Photo 
 ![Teriyaki Chicken](./teriyaki_chicken.png)
