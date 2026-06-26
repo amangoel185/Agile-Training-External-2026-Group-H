@@ -1,6 +1,6 @@
 # Title: Tensoba
-Preparation time: 30mins
-Cooking time: 15mins
+>Preparation time: 30mins
+> Cooking time: 15mins
 ## Ingredients:
 
 Mentsuyu sauce: 1 cup water, 1 piece konbu kelp, 3tbsp soy sauce, 3tbsp mirin
