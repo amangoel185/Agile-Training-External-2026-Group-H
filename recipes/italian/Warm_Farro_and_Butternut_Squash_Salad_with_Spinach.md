@@ -5,7 +5,7 @@
 - Cooking Time: 15 - 30 minutes
 - Serving Size: 1 to 2 People
 
-## Ingredients (clear list with quantities)
+## Ingredients
 
 - Dried Farro, 1 1/2 cups
 - Butternut Squash, 1 small
@@ -16,7 +16,7 @@
 - Dried Thyme, 1/2 Teaspoon OR Fresh Thyme, 1 Teaspoon
 - Dried Oregano, 1/2 Teaspoon OR Fresh Oregano, 1 Teaspoon
 
-## Method (step-by-step instructions)
+## Method
 
 1. Cut the butternut squash into 3/4 inch cubes.
 2. Toss the butternut squash with the olive, dried thyme, and a bit of salt.
