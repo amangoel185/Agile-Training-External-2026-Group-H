@@ -1,5 +1,5 @@
-## Recipe Title
-**Italian Recipe 2 – Simple Spaghetti Aglio e Olio**  
+## Simple Spaghetti Aglio e Olio
+**Italian Recipe 2**  
 
 - Cuisine Type: Italian  
 - Preparation Time: 5 min  
