@@ -1,2 +1,2 @@
 Add your Japanese recipes to this folder.
-<img width="152" height="148" alt="image" src="https://github.com/user-attachments/assets/d4f57ad4-0532-4f75-8edc-029b9d9b03dd" />
+<img width="183" height="275" alt="image" src="https://github.com/user-attachments/assets/62554066-d431-4a01-9e65-3f071e3fcf23" />
