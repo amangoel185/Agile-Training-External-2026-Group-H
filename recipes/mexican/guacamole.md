@@ -24,3 +24,6 @@ Stir in the chopped red chilli, if using. Serve immediately.
 ## Serving Suggestions
 
 Add as a topping to quesadillas, burritos, nachos, fajitas, or tacos.
+
+
+![Guacamole](./guacamole.png)
