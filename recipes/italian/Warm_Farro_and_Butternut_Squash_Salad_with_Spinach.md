@@ -35,7 +35,3 @@
 - Crumble cheese on top as well as fresh herbs like additional thyme, oregano or parsley.
 
 ## Photo (optional)
-
-![An empty white bowl](./empty-white-bowl-on-white-background-png.png)
-
-For help with writing Markdown, see [The Markdown Guide](https://www.markdownguide.org/).
