@@ -2,13 +2,13 @@ Cuisine: Japanese
 Title: Tensoba
 Preparation time: 30mins
 Cooking time: 15mins
-## Ingredients:
+Ingredients:
 
 Mentsuyu sauce: 1 cup water, 1 piece konbu kelp, 3tbsp soy sauce, 3tbsp mirin
 soba noodles,one spring onion finely chopped, shrimp, tempura batter mix, vegetable oil for frying
 Method:
 
-##Method:
+Method:
 
 Make Mentsuyu sauce
 cook soba noodles for 10mins, rinse under cold water when cooked and drain, serve soba noodles cold
