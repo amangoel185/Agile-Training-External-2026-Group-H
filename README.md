@@ -1,4 +1,5 @@
-# Agile-Training-External-2026-Group-F
+# Agile-Training-External-2026-Group-H
+
 This is a training repository to be used during the [GitHub Tooling for Agile](https://uomresearchit.github.io/Course2-GitHub-Tooling-For-Agile/) training course. It comes with a set of default issues, types, directory structure, [a template markdown file](./recipes/recipe_template.md), and settings to ensure a standardised setup. 
 
 # Set Up
