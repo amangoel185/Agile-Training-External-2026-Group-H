@@ -53,8 +53,4 @@
 
 ## Serving Suggestions: Eat as is or with curry.
 
-## Photo (optional)
 
-![An empty white bowl](./empty_white_bowl_on_white_background_png.png)
-
-For help with writing Markdown, see [The Markdown Guide](https://www.markdownguide.org/).
