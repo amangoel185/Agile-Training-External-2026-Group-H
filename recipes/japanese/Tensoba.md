@@ -1,18 +1,21 @@
 # Title: Tensoba
-Preparation time: 30mins
-Cooking time: 15mins
+- Preparation time: 30mins
+- Cooking time: 15mins
 ## Ingredients:
 
-Mentsuyu sauce: 1 cup water, 1 piece konbu kelp, 3tbsp soy sauce, 3tbsp mirin
-soba noodles,one spring onion finely chopped, shrimp, tempura batter mix, vegetable oil for frying
-Method:
+- Mentsuyu sauce: 1 cup water, 1 piece konbu kelp, 3tbsp soy sauce, 3tbsp mirin
+- soba noodles
+- one spring onion finely chopped
+- shrimp
+- tempura batter mix
+- vegetable oil for frying
 
 ## Method:
 
-Make Mentsuyu sauce
-cook soba noodles for 10mins, rinse under cold water when cooked and drain, serve soba noodles cold
-add water to tempura batter mix, coat shrimp in batter
-heat oil up to 180 degrees celcius an gently drop shrimp into the the hot oil, fry until lightly brown and puffed up
+1) Make Mentsuyu sauce
+2) Cook soba noodles for 10mins, rinse under cold water when cooked and drain, serve soba noodles cold
+3) Add water to tempura batter mix, coat shrimp in batter
+4) Heat oil up to 180 degrees celcius an gently drop shrimp into the the hot oil, fry until lightly brown and puffed up
 
 Serve soba and tempura on the side to eat with chopsticks. Dish up mentsuyu sauce in a small bowl for dipping soba
 
