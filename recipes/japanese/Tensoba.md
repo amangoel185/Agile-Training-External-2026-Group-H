@@ -1,5 +1,5 @@
 # Title: Tensoba
->Preparation time: 30mins
+> Preparation time: 30mins
 > Cooking time: 15mins
 ## Ingredients:
 
